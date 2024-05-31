@@ -3,6 +3,8 @@
 ### Introduction
 This project was carried out as part of the Advanced NLP Master's course at VU Amsterdam. The aim of this project is to implement a Logistic Regression model with lexical, semantic, syntactic and contextual features extracted from the data for Semantic Role Labeling.
 
+For the full project report, read `Argument_Identification_and_Classification_in_SRL.pdf`.
+
 ### Authors: 
 - Selin Acikel
 - Murat Ertas
