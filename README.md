@@ -1,4 +1,4 @@
-# Advanced-NLP-13
+# Logistic Regression for Semantic Role Labeling (SRL)
 
 ### Introduction
 This project was carried out as part of the Advanced NLP Master's course at VU Amsterdam. The aim of this project is to implement a Logistic Regression model with lexical, semantic, syntactic and contextual features extracted from the data for Semantic Role Labeling.
